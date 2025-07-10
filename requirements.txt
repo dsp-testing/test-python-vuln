@@ -1,1 +1,2 @@
 fastapi==0.60.0
+mongodb+srv://username:pw@somewhere.mongodb.net/default-collection-name?retryWrites=true&amp;amp;
